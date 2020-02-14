@@ -1,0 +1,13 @@
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/HarryPotterText.txt
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/TextAnalysis.exe.config
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/TextAnalysis.exe
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/TextAnalysis.pdb
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/nunit.framework.dll
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/nunitlite.dll
+/Users/dreik/Projects/TextAnalysis.csproj/obj/Debug/TextAnalysis.csprojAssemblyReference.cache
+/Users/dreik/Projects/TextAnalysis.csproj/obj/Debug/TextAnalysis.Properties.Resources.resources
+/Users/dreik/Projects/TextAnalysis.csproj/obj/Debug/TextAnalysis.csproj.GenerateResource.cache
+/Users/dreik/Projects/TextAnalysis.csproj/obj/Debug/TextAnalysis.csproj.CopyComplete
+/Users/dreik/Projects/TextAnalysis.csproj/obj/Debug/TextAnalysis.exe
+/Users/dreik/Projects/TextAnalysis.csproj/obj/Debug/TextAnalysis.pdb
+/Users/dreik/Projects/TextAnalysis.csproj/bin/Debug/HarryPotterText (copy).txt
